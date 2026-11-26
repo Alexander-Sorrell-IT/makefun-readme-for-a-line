@@ -1,0 +1,1 @@
+My agent is so thorough it wrote a README for a one-line answer, then asked me to review the README.
